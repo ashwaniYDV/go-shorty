@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/ashwani-zomato/shorten-url-fiber-redis/database"
+	"github.com/ashwaniYDV/shorten-url-fiber-redis/database"
 	"github.com/gofiber/fiber/v2"
 	"github.com/go-redis/redis/v8"
 )

@@ -1,4 +1,4 @@
-module github.com/ashwani-zomato/shorten-url-fiber-redis
+module github.com/ashwaniYDV/shorten-url-fiber-redis
 
 go 1.17
 
