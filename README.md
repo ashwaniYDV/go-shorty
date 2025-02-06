@@ -1,4 +1,4 @@
-# shorten-url-fiber-redis
+# go-shorty
 
 
 ### Start the server
